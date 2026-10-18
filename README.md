@@ -10,4 +10,4 @@ Certains bâtiments de la BDNB sont représentés par plusieurs polygones, ce qu
 
 Cette méthode constitue un exercice exploratoire. Une utilisation opérationnelle nécessiterait notamment une expertise urbanistique pour valider les îlots, un contrôle exhaustif des résultats et une meilleure prise en compte de certains cas particuliers dans les données sources, comme les résidences étudiantes.
 
-Sources des données : Base e données nationale des bâtiments (version 2026-02-a, données des fichiers fonciers au 31-12-2025), BD TOPO® IGN (15-09-2026), Cadastre DGFiP par Etalab (01-09-2026)
+Sources des données : Base de données nationale des bâtiments (version 2026-02-a, données des fichiers fonciers au 31-12-2025), BD TOPO® IGN (15-09-2026), Cadastre DGFiP par Etalab (01-09-2026)
