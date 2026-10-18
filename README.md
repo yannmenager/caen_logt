@@ -2,7 +2,7 @@ Méthodologie
 
 L’objectif est d’estimer la densité de logements à l’échelle des îlots urbains de Caen, à partir de données ouvertes du cadastre, de la BD TOPO® de l’IGN et de la Base de données nationale des bâtiments (BDNB).
 
-Les îlots sont délimités à l’aide du cadastre et de la BD TOPO®, en prenant notamment en compte les routes, les bâtiments et les zones d’activité. Des scripts SIG écrits avec Codex automatisent une partie de ces traitements.
+Les îlots sont délimités à l’aide du cadastre et de la BD TOPO®, en prenant notamment en compte les routes, les bâtiments et les zones d’activités. Des scripts SIG écrits avec Codex automatisent une partie de ces traitements.
 
 Le nombre de logements recensés dans la BDNB est ensuite rattaché aux îlots. La BDNB s’appuie sur les fichiers fonciers du Cerema, eux-mêmes issus des bases MAJIC de la DGFiP : les logements comptabilisés sont donc des logements au sens fiscal.
 
